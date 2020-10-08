@@ -81,5 +81,4 @@ created_on: 2020-10-08
 ## 著者について
 
 @gadgdiler
-
 toRubyの一般メンバー。Nagano.rbで那須のお土産を置き逃げしたのは自分です。
