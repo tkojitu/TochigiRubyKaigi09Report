@@ -22,7 +22,7 @@ created_on: 2020-10-08
 
 数少ない写真の１つのインタビュー風景：
 
-![](images/TochigiRubykaigi09Report/interview.jpg)
+![](images/TochigiRubyKaigi09Report/interview.jpg)
 
 ## はじまり
 
