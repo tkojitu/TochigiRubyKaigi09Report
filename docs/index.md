@@ -14,7 +14,7 @@
 
 数少ない写真の１つのインタビュー風景：
 
-![]({{base}}{{site.baseurl}}/images/TochigiRubyKaigi09Report/interview.jpg)
+![](images/TochigiRubyKaigi09Report/interview.jpg)
 
 ## はじまり
 
